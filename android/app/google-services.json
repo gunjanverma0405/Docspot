@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "692312903496",
+    "project_id": "nearby-medical-help",
+    "storage_bucket": "nearby-medical-help.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692312903496:android:41b956710f37d017ba6d7d",
+        "android_client_info": {
+          "package_name": "com.example.docspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692312903496-8qr7fl6q5fu45q1oq6e94656gglq6q1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.docspot",
+            "certificate_hash": "f2b1c77324fa9cd5aeef4cedc4b2c95f2f8909f5"
+          }
+        },
+        {
+          "client_id": "692312903496-n8kbgq97hcd4v4osdj95rva0u3hvikpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYlBIcrWrVEc-ygM7gJZKpx-HpsotQFFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692312903496-in9haq34kt0bjokt5qk6qvahfgv1jcel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "692312903496-l16p3pk641j9tjgdnu9b9f1cfjsat48t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.docspot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
